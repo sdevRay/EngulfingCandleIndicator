@@ -25,6 +25,9 @@
   <ItemGroup>
     <ClCompile Include="EngulfingCandleIndicator.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="screenshot.png" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
