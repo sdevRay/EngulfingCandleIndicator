@@ -1,0 +1,7 @@
+LIBRARY DemoStrategy
+
+EXPORTS Init
+	Calculate
+	ReplaceStr
+	IntrfProcsRec
+	OnParamsChange
